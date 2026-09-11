@@ -29,14 +29,14 @@ Run `/settings` in pi and select **Monokai Pro (CE)**, or set it directly in `se
 }
 ```
 
-**Tip:** for the full look, set your terminal background to `#19181A` and enable truecolor (`COLORTERM=truecolor`).
+**Tip:** for the full look, set your terminal background to `#2D2A2E` and enable truecolor (`COLORTERM=truecolor`).
 
 **Hot reload:** edit `themes/monokai-pro.json` while the theme is active and pi applies changes immediately.
 
 ## Layout
 
 ```text
-themes/monokai-pro.json   # the theme (51 tokens, official palette)
+themes/monokai-pro.json   # the theme (56 colors, official palette)
 package.json              # pi package manifest (pi.themes)
 ```
 
