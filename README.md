@@ -1,5 +1,7 @@
 # pi-monokai-pro
 
+![Screenshot](assets/preview.png)
+
 [Monokai Pro (CE)](https://monokai.pro/contribute) theme for the [pi coding agent](https://pi.dev).
 
 Uses the official Monokai Pro palette (default filter): `#FF6188` keyword, `#FC9867` argument, `#FFD866` string, `#A9DC76` function, `#78DCE8` class, `#AB9DF2` constant, with the `#2D2A2E` / `#221F22` / `#19181A` background ladder.

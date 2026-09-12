@@ -1,6 +1,6 @@
 {
   "name": "@krfantasy/pi-monokai-pro",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Monokai Pro (CE) theme for the pi coding agent",
   "license": "MIT",
   "keywords": ["pi", "pi-package", "pi-theme", "monokai-pro", "monokai"],
@@ -17,6 +17,7 @@
     "access": "public"
   },
   "pi": {
-    "themes": ["./themes"]
+    "themes": ["./themes"],
+    "image": "https://raw.githubusercontent.com/krfantasy/pi-monokai-pro/main/assets/preview.png"
   }
 }
